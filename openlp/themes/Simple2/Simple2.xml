@@ -7,7 +7,7 @@
     <font type="main">
         <name>DejaVu Sans</name>
         <color>#FFFFFF</color>
-        <size>34</size>
+        <size>32</size>
         <bold>True</bold>
         <italics>False</italics>
         <line_adjustment>22</line_adjustment>
