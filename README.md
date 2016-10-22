@@ -8,4 +8,4 @@ rsync -avz /home/andy/.local/share/openlp .
 
 For a pull, copy them from the git repo back to the openlp dir:
 
-rsync -avz ./openlp /home/andy/.local/share/openlp`
+rsync -avz ./openlp /home/andy/.local/share/
