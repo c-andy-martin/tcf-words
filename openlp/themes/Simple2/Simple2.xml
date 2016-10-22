@@ -29,6 +29,6 @@
     <display>
         <horizontalAlign>2</horizontalAlign>
         <verticalAlign>1</verticalAlign>
-        <slideTransition>True</slideTransition>
+        <slideTransition>False</slideTransition>
     </display>
 </theme>

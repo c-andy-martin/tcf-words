@@ -2,8 +2,10 @@
 TCF Overhead Words
 OpenLP database
 
-I copy the files by doing:
+For a push, I copy the files from the openlp to the git repo by doing:
 
 rsync -avz /home/andy/.local/share/openlp .
 
-Switch the order to copy from the git repo to the openlp data directory.
+For a pull, copy them from the git repo back to the openlp dir:
+
+rsync -avz ./openlp /home/andy/.local/share/openlp`
