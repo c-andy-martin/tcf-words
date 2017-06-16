@@ -7,11 +7,11 @@
     <font type="main">
         <name>Arial</name>
         <color>#FFFFFF</color>
-        <size>38</size>
+        <size>58</size>
         <bold>False</bold>
         <italics>False</italics>
         <line_adjustment>0</line_adjustment>
-        <location height="670" override="True" width="984" x="20" y="20"/>
+        <location height="670" override="False" width="984" x="20" y="20"/>
         <shadow shadowColor="#000000" shadowSize="5">True</shadow>
         <outline outlineColor="#000000" outlineSize="2">False</outline>
     </font>
@@ -27,8 +27,8 @@
         <outline outlineColor="#000000" outlineSize="2">False</outline>
     </font>
     <display>
-        <horizontalAlign>0</horizontalAlign>
-        <verticalAlign>0</verticalAlign>
+        <horizontalAlign>2</horizontalAlign>
+        <verticalAlign>1</verticalAlign>
         <slideTransition>False</slideTransition>
     </display>
 </theme>
