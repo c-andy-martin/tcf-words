@@ -7,11 +7,11 @@
     <font type="main">
         <name>Arial</name>
         <color>#FFFFFF</color>
-        <size>43</size>
+        <size>41</size>
         <bold>False</bold>
         <italics>False</italics>
         <line_adjustment>10</line_adjustment>
-        <location height="922" override="False" width="1260" x="10" y="0"/>
+        <location height="800" override="True" width="950" x="25" y="0"/>
         <shadow shadowColor="#000000" shadowSize="5">False</shadow>
         <outline outlineColor="#000000" outlineSize="2">False</outline>
     </font>
