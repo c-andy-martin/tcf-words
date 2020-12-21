@@ -7,10 +7,10 @@
     <font type="main">
         <name>DejaVu Sans</name>
         <color>#FFFFFF</color>
-        <size>48</size>
+        <size>42</size>
         <bold>True</bold>
         <italics>False</italics>
-        <line_adjustment>32</line_adjustment>
+        <line_adjustment>28</line_adjustment>
         <location height="690" override="False" width="1004" x="40" y="10"/>
         <shadow shadowColor="#000000" shadowSize="2">False</shadow>
         <outline outlineColor="#000000" outlineSize="2">False</outline>
